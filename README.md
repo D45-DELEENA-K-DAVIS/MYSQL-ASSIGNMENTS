@@ -1,3 +1,5 @@
-# MYSQL-DDL-COMMANDS-ASSIGNMENT-1
-
+# MYSQL-ASSIGNMENTS
+DDL COMMANDS ASSIGNMENT 1
 Creating a database named School and performing all the DDL commands(CREATE, ALTER, DROP, RENAME, TRUNCATE) for the table named STUDENT with fields: Roll_No, Name,Marks ,Grade .Created data on the basis of columns (1)select command to display the table. (2) Adding column named Contact to the STUDENT table using alter. (3) Remove the Grade column from the Student table using drop. (4) Rename the table to CLASSTEN using rename. (5) Delete all rows from the table using drop. (6) Remove the table from the database using drop.
+DDL CONSTAINTS ASSIGNMENT 2
+Creating a database called “Sales” and create a new table named “Orders” in the Sales database with columns: (Order_Id, Customer_name, Product_Category, Ordered_item, Contact_No). Use constraints: Primary Key Unique Not Null 1. Add a new column named “order_quantity” to the orders table. 2. Rename the orders table to the sales_orders table. 3. Insert 10 rows into the sales_orders table. 4. Retrieve customer_name and Ordered_Item from the sales_orders table. 5. Use the update command to change the name of the product for any row. 6. Delete the sales_orders table from the database.
